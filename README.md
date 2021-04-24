@@ -56,6 +56,7 @@
 
 #Pilihan menggunakan checkBox dengan perhitungan otomatis
 ![Screenshot_89](https://user-images.githubusercontent.com/81457697/115964469-d71d8400-a54e-11eb-9f38-5ab1c87644cf.png)
+
 ![Screenshot_88](https://user-images.githubusercontent.com/81457697/115964473-d8e74780-a54e-11eb-9504-ca03b24d62b5.png)
 
 #membuat script untuk melakukan validasi pada isian form
