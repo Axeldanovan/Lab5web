@@ -64,6 +64,7 @@
 
 ![Screenshot_94](https://user-images.githubusercontent.com/81457697/115964501-fcaa8d80-a54e-11eb-9603-25ffb9c98240.png)
 
+#membuat validasi pada isian form
 ![Screenshot_90](https://user-images.githubusercontent.com/81457697/115964503-ff0ce780-a54e-11eb-8e74-d8f99f3e4164.png)
 
 ![Screenshot_91](https://user-images.githubusercontent.com/81457697/115964504-016f4180-a54f-11eb-834a-fd8da84eb262.png)
